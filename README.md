@@ -21,7 +21,7 @@ This project is a React application that uses the React Flow library to create a
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Maheeth1/dynamic-diagram-flow.git
     cd dynamic-diagram-flow
     ```
 
